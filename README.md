@@ -1,4 +1,4 @@
-# Get-Sysytem-Information
+# Get-System-Information
 This Project able to show all information about your PC/Laptop
 like:-
 System Information,
